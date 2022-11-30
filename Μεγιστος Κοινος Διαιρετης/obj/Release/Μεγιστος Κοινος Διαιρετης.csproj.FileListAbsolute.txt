@@ -1,0 +1,10 @@
+C:\Users\Giannhs\source\repos\Μεγιστος Κοινος Διαιρετης\Μεγιστος Κοινος Διαιρετης\bin\Release\Μεγιστος Κοινος Διαιρετης.exe.config
+C:\Users\Giannhs\source\repos\Μεγιστος Κοινος Διαιρετης\Μεγιστος Κοινος Διαιρετης\bin\Release\Μεγιστος Κοινος Διαιρετης.exe
+C:\Users\Giannhs\source\repos\Μεγιστος Κοινος Διαιρετης\Μεγιστος Κοινος Διαιρετης\bin\Release\Μεγιστος Κοινος Διαιρετης.pdb
+C:\Users\Giannhs\source\repos\Μεγιστος Κοινος Διαιρετης\Μεγιστος Κοινος Διαιρετης\obj\Release\Μεγιστος Κοινος Διαιρετης.csprojAssemblyReference.cache
+C:\Users\Giannhs\source\repos\Μεγιστος Κοινος Διαιρετης\Μεγιστος Κοινος Διαιρετης\obj\Release\Μεγιστος_Κοινος_Διαιρετης.Form1.resources
+C:\Users\Giannhs\source\repos\Μεγιστος Κοινος Διαιρετης\Μεγιστος Κοινος Διαιρετης\obj\Release\Μεγιστος_Κοινος_Διαιρετης.Properties.Resources.resources
+C:\Users\Giannhs\source\repos\Μεγιστος Κοινος Διαιρετης\Μεγιστος Κοινος Διαιρετης\obj\Release\Μεγιστος Κοινος Διαιρετης.csproj.GenerateResource.cache
+C:\Users\Giannhs\source\repos\Μεγιστος Κοινος Διαιρετης\Μεγιστος Κοινος Διαιρετης\obj\Release\Μεγιστος Κοινος Διαιρετης.csproj.CoreCompileInputs.cache
+C:\Users\Giannhs\source\repos\Μεγιστος Κοινος Διαιρετης\Μεγιστος Κοινος Διαιρετης\obj\Release\Μεγιστος Κοινος Διαιρετης.exe
+C:\Users\Giannhs\source\repos\Μεγιστος Κοινος Διαιρετης\Μεγιστος Κοινος Διαιρετης\obj\Release\Μεγιστος Κοινος Διαιρετης.pdb
